@@ -114,6 +114,18 @@ figure figcaption {
 	color: #fff;
 	background: #2c98f0;
 }
+.button {
+	border: none;
+	color: rgb(233, 106, 21);
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+  }
 
 ::-moz-selection {
 	color: #fff;
